@@ -4434,3 +4434,16 @@ body {
 .cid-qPDyuQ2SMo B {
   color: #ffffff;
 }
+.cid-qUnfdnBUD8 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #2c0c47;
+}
+.cid-qUnfdnBUD8 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qUnfdnBUD8 .video-block {
+    width: 100% !important;
+  }
+}
